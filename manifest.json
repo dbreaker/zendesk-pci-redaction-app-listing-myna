@@ -1,0 +1,16 @@
+{
+  "name": "Myna PCI Call Redaction",
+  "author": {
+    "name": "Myna Limited",
+    "email": "support@meetmyna.com",
+    "url": "https://meetmyna.com/"
+  },
+  "version": "4.0.0",
+  "defaultLocale": "en",
+  "marketingOnly": false,
+  "private": false,
+  "gaID": "ua-17518719-2",
+  "termsConditionsURL": "https://meetmyna.com/tscs.html",
+  "requirementsOnly": true,
+  "singleInstall": true
+}
