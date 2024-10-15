@@ -31,7 +31,7 @@
     "myna_pci_redaction_http_webhook": {
       "endpoint": "https://app.calltutor.com/sources/redact_webhook",
       "http_method": "POST",
-      "name": "Myna PCI Redaction Webhook",
+      "name": "CallTutor PCI Redaction Webhook",
       "request_format": "json",
       "status": "active",
       "subscriptions": ["conditional_ticket_events"]

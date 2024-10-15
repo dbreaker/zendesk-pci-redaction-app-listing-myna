@@ -1,16 +1,16 @@
 {
-  "name": "Myna PCI Call Redaction",
+  "name": "CallTutor PCI Call Redaction & Call Transcription",
   "author": {
-    "name": "Myna Limited",
-    "email": "support@meetmyna.com",
-    "url": "https://meetmyna.com/"
+    "name": "CallTutor.com",
+    "email": "support@calltutor.com",
+    "url": "https://www.calltutor.com/"
   },
-  "version": "4.0.0",
+  "version": "4.0.1",
   "defaultLocale": "en",
   "marketingOnly": false,
   "private": false,
   "gaID": "ua-17518719-2",
-  "termsConditionsURL": "https://meetmyna.com/tscs.html",
+  "termsConditionsURL": "https://www.calltutor.com/terms",
   "requirementsOnly": true,
   "singleInstall": true
 }
