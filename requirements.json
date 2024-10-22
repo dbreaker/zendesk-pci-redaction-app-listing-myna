@@ -6,7 +6,7 @@
         {
           "field": "notification_webhook",
           "value": [
-            "myna_pci_redaction_http_webhook",
+            "calltutor_pci_redaction_http_webhook",
             "{\"ticketid\": \"{{ticket.id}}\", \"ticket.link\": \"{{ticket.link}}\"}"
           ]
         }
@@ -28,7 +28,7 @@
     }
   },
   "webhooks": {
-    "myna_pci_redaction_http_webhook": {
+    "calltutor_pci_redaction_http_webhook": {
       "endpoint": "https://app.calltutor.com/sources/redact_webhook",
       "http_method": "POST",
       "name": "CallTutor PCI Redaction Webhook",
