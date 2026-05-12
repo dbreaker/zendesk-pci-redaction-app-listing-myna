@@ -14,7 +14,7 @@
     },
     "package": "iv_redaction",
     "installation_instructions": {
-      "value": "Installing the CallTutor.com PCI Redaction and Transcription app is simple and easy. You can start redacting and transcribing your calls within minutes. Just follow the step-by-step instructions below:\n\n1. Click the **Buy** button above.\n2. Visit the [CallTutor.com Signup Link](https://www.calltutor.com/zendesk_signup) and enter:\n   - **Zendesk Domain**\n   - **Zendesk Admin Username**\n   - **Zendesk API Token**\n   We require these to access audio files in Zendesk Support tickets created by Talk calls.\n3. If you have any questions, please contact us at [support@calltutor.com](mailto:support@calltutor.com).",
+      "value": "Installing the CallTutor.com PCI Redaction and Transcription app is simple and easy. You can start redacting and transcribing your calls within minutes. Just follow the step-by-step instructions below:\n\n1. Click the **Buy** button above.\n2. Visit the [CallTutor.com Signup Link](https://app.calltutor.com/zendesk_signup) and enter:\n   - **Zendesk Domain**\n   - **Zendesk Admin Username**\n   - **Zendesk API Token**\n   We require these to access audio files in Zendesk Support tickets created by Talk calls.\n3. If you have any questions, please contact us at [support@calltutor.com](mailto:support@calltutor.com).",
       "title": "app install instructions"
     }
   }
